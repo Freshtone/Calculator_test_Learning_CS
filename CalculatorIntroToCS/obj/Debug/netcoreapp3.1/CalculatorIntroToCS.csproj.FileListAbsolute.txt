@@ -1,0 +1,13 @@
+C:\Users\Jamie\Desktop\Get Academy Files\c#\CalculatorIntroToCS\CalculatorIntroToCS\bin\Debug\netcoreapp3.1\CalculatorIntroToCS.exe
+C:\Users\Jamie\Desktop\Get Academy Files\c#\CalculatorIntroToCS\CalculatorIntroToCS\bin\Debug\netcoreapp3.1\CalculatorIntroToCS.deps.json
+C:\Users\Jamie\Desktop\Get Academy Files\c#\CalculatorIntroToCS\CalculatorIntroToCS\bin\Debug\netcoreapp3.1\CalculatorIntroToCS.runtimeconfig.json
+C:\Users\Jamie\Desktop\Get Academy Files\c#\CalculatorIntroToCS\CalculatorIntroToCS\bin\Debug\netcoreapp3.1\CalculatorIntroToCS.runtimeconfig.dev.json
+C:\Users\Jamie\Desktop\Get Academy Files\c#\CalculatorIntroToCS\CalculatorIntroToCS\bin\Debug\netcoreapp3.1\CalculatorIntroToCS.dll
+C:\Users\Jamie\Desktop\Get Academy Files\c#\CalculatorIntroToCS\CalculatorIntroToCS\bin\Debug\netcoreapp3.1\CalculatorIntroToCS.pdb
+C:\Users\Jamie\Desktop\Get Academy Files\c#\CalculatorIntroToCS\CalculatorIntroToCS\obj\Debug\netcoreapp3.1\CalculatorIntroToCS.csprojAssemblyReference.cache
+C:\Users\Jamie\Desktop\Get Academy Files\c#\CalculatorIntroToCS\CalculatorIntroToCS\obj\Debug\netcoreapp3.1\CalculatorIntroToCS.AssemblyInfoInputs.cache
+C:\Users\Jamie\Desktop\Get Academy Files\c#\CalculatorIntroToCS\CalculatorIntroToCS\obj\Debug\netcoreapp3.1\CalculatorIntroToCS.AssemblyInfo.cs
+C:\Users\Jamie\Desktop\Get Academy Files\c#\CalculatorIntroToCS\CalculatorIntroToCS\obj\Debug\netcoreapp3.1\CalculatorIntroToCS.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Desktop\Get Academy Files\c#\CalculatorIntroToCS\CalculatorIntroToCS\obj\Debug\netcoreapp3.1\CalculatorIntroToCS.dll
+C:\Users\Jamie\Desktop\Get Academy Files\c#\CalculatorIntroToCS\CalculatorIntroToCS\obj\Debug\netcoreapp3.1\CalculatorIntroToCS.pdb
+C:\Users\Jamie\Desktop\Get Academy Files\c#\CalculatorIntroToCS\CalculatorIntroToCS\obj\Debug\netcoreapp3.1\CalculatorIntroToCS.genruntimeconfig.cache
